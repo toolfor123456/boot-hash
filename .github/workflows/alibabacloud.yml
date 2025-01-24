@@ -1,4 +1,0 @@
-#哈希值
- ro.boot.vbmeta.digest=boothash值
- 创建一个文件夹为system.prop
- 然后输入1-2行的文字，将所需要替换的哈希值替换到第二行
